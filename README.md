@@ -70,6 +70,14 @@
      </a>
      <br />
      </td>
+    </td>
+   <td align="center">
+      <a href="https://github.com/ha-ny">
+       <img src="https://avatars.githubusercontent.com/u/130643750?v=4" width="100px;" alt=""/>
+       <br />
+     HAEUN KIM
+     <br />
+     </td>
   </tr>
 </table>
 <br />
