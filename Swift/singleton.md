@@ -18,5 +18,5 @@
     let fileManager = FileManager.default    // 파일
     let notification = NotificationCenter.default   // 노티피케이션(특정 상황, 시점을 알려줌)
     let logger = Logger.shared   // 로그 메세지
-```
+    ```
   * 사운드 효과를 재생하는 오디오 채널, HTTP 요청을 수행하는 네트워크 관리자 등 앱 전체에서 공유되는 리소스 및 서비스에 대해 관리할 때 사용할 수 있습니다.
