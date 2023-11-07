@@ -88,4 +88,6 @@
 
 ## 📌 Swift
 
+* [stored property 대신에 computed property를 사용하는 상황과 그 반대의 경우에 대해 설명하시오.](https://github.com/SweepSwift/iOS_InterviewStudy/blob/main/Swift/computed_vs_stored_property.md)
+
 ## 📌 CS
