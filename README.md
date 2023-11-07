@@ -90,5 +90,6 @@
 
 * [stored property 대신에 computed property를 사용하는 상황과 그 반대의 경우에 대해 설명하시오.](https://github.com/SweepSwift/iOS_InterviewStudy/blob/main/Swift/computed_vs_stored_property.md)
 * [Singleton 패턴이 무엇인지와 언제 활용할 수 있는지 설명하세요](https://github.com/SweepSwift/iOS_InterviewStudy/blob/571da7936b853b65067b0f5bb7bdc6383579b34c/Swift/singleton_pattern.md)
+* [Generic이 무엇이고 어떻게 동작하는지 설명해주세요.](https://github.com/SweepSwift/iOS_InterviewStudy/blob/main/Swift/generic.md)
 
 ## 📌 CS
