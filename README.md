@@ -92,5 +92,6 @@
 * [Singleton 패턴이 무엇인지와 언제 활용할 수 있는지 설명하세요](https://github.com/SweepSwift/iOS_InterviewStudy/blob/571da7936b853b65067b0f5bb7bdc6383579b34c/Swift/singleton_pattern.md)
 * [Generic이 무엇이고 어떻게 동작하는지 설명해주세요.](https://github.com/SweepSwift/iOS_InterviewStudy/blob/main/Swift/generic.md)
 * [unowned와 weak의 차이점을 설명하세요.](https://github.com/SweepSwift/iOS_InterviewStudy/blob/main/Swift/unowned_weak.md)
+* [@escaping closure에 대해 설명하세요.](https://github.com/SweepSwift/iOS_InterviewStudy/blob/main/Swift/escaping_closure.md)
 
 ## 📌 CS
