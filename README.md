@@ -95,3 +95,5 @@
 * [@escaping closure에 대해 설명하세요.](https://github.com/SweepSwift/iOS_InterviewStudy/blob/main/Swift/escaping_closure.md)
 
 ## 📌 CS
+
+* [Method Dispatch에 대해서 설명하세요.](https://github.com/SweepSwift/iOS_InterviewStudy/blob/main/CS/method_dispatch.md)
