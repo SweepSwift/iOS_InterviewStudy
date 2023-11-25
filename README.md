@@ -86,6 +86,7 @@
 * [Generic이 무엇이고 어떻게 동작하는지 설명해주세요.](https://github.com/SweepSwift/iOS_InterviewStudy/blob/main/Swift/generic.md)
 * [unowned와 weak의 차이점을 설명하세요.](https://github.com/SweepSwift/iOS_InterviewStudy/blob/main/Swift/unowned_weak.md)
 * [@escaping closure에 대해 설명하세요.](https://github.com/SweepSwift/iOS_InterviewStudy/blob/main/Swift/escaping_closure.md)
+* [forEach와 for-in의 차이점에 대해 설명하시오.](https://github.com/SweepSwift/iOS_InterviewStudy/blob/main/Swift/forEach_for-in.md)
 
 ## 📌 CS
 
