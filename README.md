@@ -79,6 +79,8 @@
 
 ## 📌 iOS
 
+* [iOS 13 이후 등장한 sceneDelegate에 대해 앱의 생명주기와 관련해서 설명해보세요.](https://github.com/SweepSwift/iOS_InterviewStudy/blob/main/iOS/scenedelegate.md)
+
 ## 📌 Swift
 
 * [stored property 대신에 computed property를 사용하는 상황과 그 반대의 경우에 대해 설명하시오.](https://github.com/SweepSwift/iOS_InterviewStudy/blob/main/Swift/computed_vs_stored_property.md)
