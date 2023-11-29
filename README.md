@@ -80,6 +80,7 @@
 ## 📌 iOS
 
 * [iOS 13 이후 등장한 sceneDelegate에 대해 앱의 생명주기와 관련해서 설명해보세요.](https://github.com/SweepSwift/iOS_InterviewStudy/blob/main/iOS/scenedelegate.md)
+* [frame과 bounds에 대해 설명하세요](https://github.com/SweepSwift/iOS_InterviewStudy/blob/main/iOS/frame_vs_bounds.md)
 
 ## 📌 Swift
 
