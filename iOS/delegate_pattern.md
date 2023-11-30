@@ -2,6 +2,7 @@
 
 - Delegate Pattern이란 특정 행위에 대한 자신의 책임을 다른 객체에 위임하는 디자인 패턴입니다.
 - Delegate Pattern은 기존의 프레임워크에 존재하는 객체의 동작을 커스텀하여 사용하고 싶을 때, VIewController간의 데이터를 전달할 때, 이벤트를 처리할 때 사용합니다.
+<br/>
 
 1. tableView / collectionView의 delegate
     
@@ -28,7 +29,7 @@
         }
     }
     ```
-    
+<br/>
 
 2. ViewController와 View의 분리
     
@@ -62,3 +63,4 @@
         }
     }
     ```
+
